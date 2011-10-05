@@ -411,7 +411,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Emmanuel Balpe (3P5K3A55KD)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Batura Mobile France";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Batura Mobile France";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = /Users/Shared/PhoneGap/Frameworks;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -420,7 +421,8 @@
 				GCC_PREPROCESSOR_DEFINITIONS = "PHONEGAP_FRAMEWORK=YES";
 				INFOPLIST_FILE = "bilbaobbklive/bilbaobbklive-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84908AB1-09B3-4531-BCA9-2DD0DA2CBEF7";
+				PROVISIONING_PROFILE = "C154873D-7575-40CA-87F7-134317011639";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C154873D-7575-40CA-87F7-134317011639";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -429,7 +431,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Emmanuel Balpe (3P5K3A55KD)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Batura Mobile France";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Batura Mobile France";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = /Users/Shared/PhoneGap/Frameworks;
@@ -438,7 +441,8 @@
 				GCC_PREPROCESSOR_DEFINITIONS = "PHONEGAP_FRAMEWORK=YES";
 				INFOPLIST_FILE = "bilbaobbklive/bilbaobbklive-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "5B26E0DD-A735-460C-AF94-5508CFF8B638";
+				PROVISIONING_PROFILE = "C154873D-7575-40CA-87F7-134317011639";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C154873D-7575-40CA-87F7-134317011639";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
