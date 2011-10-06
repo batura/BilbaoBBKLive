@@ -693,7 +693,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>970</real>
+		<real>1010</real>
 		<string>Xcode3TargetEditor</string>
 		<dict>
 			<key>$class</key>
@@ -732,7 +732,7 @@
 			</dict>
 		</dict>
 		<string>file://localhost/Users/emmanuelbalpe/github/BilbaoBBKLive/bilbaobbklive/bilbaobbklive.xcodeproj/</string>
-		<real>339583275.72067899</real>
+		<real>339585046.939309</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1871,7 +1871,7 @@
 			</dict>
 		</dict>
 		<string>file://localhost/Users/emmanuelbalpe/github/BilbaoBBKLive/bilbaobbklive/bilbaobbklive/Resources/splash/Default@2x.png</string>
-		<real>339583208.28302503</real>
+		<real>339584926.78088897</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1930,7 +1930,7 @@
 			</dict>
 		</dict>
 		<string>file://localhost/Users/emmanuelbalpe/github/BilbaoBBKLive/bilbaobbklive/bilbaobbklive/Resources/splash/Default.png</string>
-		<real>339583217.20811898</real>
+		<real>339584928.19698501</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2198,8 +2198,8 @@
 		</dict>
 		<string>IDEDeviceLocation</string>
 		<string>IDEDeviceArchitecture</string>
-		<string>dvtdevice-iphonesimulator:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk-iPhone</string>
-		<string>i386</string>
+		<string>dvtdevice-iphone:d948e4b9cc1c34cf0819585dc835b7ac92e1ce80</string>
+		<string>armv7</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2331,7 +2331,7 @@
 		<string>IDEActivityReportStringSegmentStringValue</string>
 		<real>2</real>
 		<string> </string>
-		<string>Build</string>
+		<string>Archive</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2521,7 +2521,7 @@
 				<integer>223</integer>
 			</dict>
 			<key>NS.time</key>
-			<real>339583251.29863101</real>
+			<real>339585039.95183599</real>
 		</dict>
 		<dict>
 			<key>$classes</key>
@@ -2532,7 +2532,7 @@
 			<key>$classname</key>
 			<string>NSDate</string>
 		</dict>
-		<string>Today at 10:40</string>
+		<string>Today at 11:10</string>
 		<integer>234</integer>
 		<dict>
 			<key>$class</key>
@@ -2824,11 +2824,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>15</integer>
+					<integer>252</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>252</integer>
+					<integer>253</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2840,7 +2840,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>262</integer>
+					<integer>252</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2871,6 +2871,7 @@
 				</dict>
 			</array>
 		</dict>
+		<true/>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2879,10 +2880,6 @@
 			</dict>
 			<key>NS.keys</key>
 			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>253</integer>
-				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>254</integer>
@@ -2911,16 +2908,20 @@
 					<key>CF$UID</key>
 					<integer>260</integer>
 				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>261</integer>
+				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>261</integer>
+					<integer>262</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>262</integer>
+					<integer>252</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2957,7 +2958,6 @@
 		<string>IDEShowUtilities</string>
 		<string>AssistantEditorsLayout</string>
 		<string>bilbaobbklive.xcodeproj</string>
-		<true/>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3003,7 +3003,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>262</integer>
+					<integer>252</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -3015,7 +3015,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>262</integer>
+					<integer>252</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -3201,7 +3201,7 @@
 			</array>
 		</dict>
 		<string>VariablesView</string>
-		<real>570</real>
+		<real>590</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3232,7 +3232,7 @@
 			</array>
 		</dict>
 		<string>ConsoleArea</string>
-		<real>569</real>
+		<real>589</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3301,7 +3301,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>570</real>
+		<real>590</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3331,7 +3331,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>569</real>
+		<real>589</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3781,7 +3781,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>970</real>
+		<real>1010</real>
 		<string>Xcode3TargetEditor</string>
 		<dict>
 			<key>$class</key>
@@ -3819,7 +3819,7 @@
 				<integer>336</integer>
 			</dict>
 		</dict>
-		<real>339583275.72630203</real>
+		<real>339585046.94207603</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3895,7 +3895,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{0, 0}, {1140, 602}}</string>
+		<string>{{0, 0}, {1180, 709}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3965,7 +3965,7 @@
 			</array>
 		</dict>
 		<string>IDEEditor</string>
-		<real>624</real>
+		<real>731</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4237,7 +4237,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>515</real>
+		<real>622</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4375,7 +4375,7 @@
 		<string>IDESCMStatusFilteringEnabled</string>
 		<string>IDESelectedObjects</string>
 		<string>IDEExpandedItemsSet</string>
-		<string>{{0, 0}, {259, 695}}</string>
+		<string>{{0, 0}, {259, 802}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4707,7 +4707,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>257</integer>
+					<integer>258</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -4737,7 +4737,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>255</integer>
+					<integer>256</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -4745,7 +4745,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>1140</real>
+		<real>1180</real>
 		<dict>
 			<key>$class</key>
 			<dict>
