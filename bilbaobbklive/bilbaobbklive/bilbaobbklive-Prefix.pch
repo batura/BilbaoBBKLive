@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'bilbaobbklive' target in the 'bilbaobbklive' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
